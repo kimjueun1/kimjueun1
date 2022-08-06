@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Jueun Kim&fontSize=40" />
+
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjueun1&count_bg=%23FFA4A4&title_bg=%23FFC9C9&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <br></br>
   <h1>✨Front-end Stack✨</h1>
@@ -33,3 +35,4 @@
   
   [![kimjueun1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjueun1&show_icons=true&hide=stars&theme=vue)](https://github.com/kimjueun1)
 </div>
+
