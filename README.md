@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
 
   <br></br><br></br>
-  
+  <!--
   [![kimjueun1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjueun1&show_icons=true&hide=stars&theme=vue)](https://github.com/kimjueun1)
+  -->
 <br></br><br></br>
 </div>
 
