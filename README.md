@@ -3,8 +3,16 @@
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjueun1&count_bg=%23FFA4A4&title_bg=%23FFC9C9&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <br></br>
+  <h1>✨SQL Stack✨</h1>
+  <img src="https://img.shields.io/badge/Oracle-CB3837?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pl/sql-F7B93E?style=flat-square&logo=pl/sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/googlebigquery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  
   <h1>✨Front-end Stack✨</h1>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jsp-6DB33F?style=flat-square&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
@@ -21,7 +29,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-61DAFB?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/>  
   <h1>✨Cowork-tools✨</h1>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
